@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+  <row>
+    <column>IBGE</column>
+    <column>População</column>
+    <column>Município</column>
+    <column>Porte</column>
+  </row>
+  <row>
+    <column>355030</column>
+    <column>11.244.369</column>
+    <column>SAO PAULO</column>
+    <column>METRÓPOLE</column>
+  </row>
+  <row>
+    <column>Contas Vinculadas ao</column>    
+  </row>
+  <row>
+    <column>FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</column>    
+  </row>
+  <row>
+    <column>Saldo das Contas em</column>    
+  </row>
+  <row>
+    <column>Janeiro</column>    
+  </row>
+  <row>
+    <column>CNPJ</column>    
+  </row>
+  <row>
+    <column>97.541.718/0001-27</column>    
+  </row>  
+  <row>
+    <column>PROTEÇÃO</column>
+    <column>TIPO DE CONTA</column>
+    <column>AGÊNCIA</column>
+    <column>CONTA</column>
+    <column>SALDO</column>
+  </row>
+	  <row>
+    <column>Bloco da Gestão do Programa Bolsa Família e do Cadastro Único</column>
+    <column>BL GBF FNAS</column>
+    <column>1897X</column>
+    <column>184551</column>
+    <column>R$ 6644001.95 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Bloco da Gestão do Programa Bolsa Família e do Cadastro Único</column>
+	<column>R$ 6644001.95</column>
+  </row>  
+	  <row>
+    <column>Bloco da Gestão do SUAS</column>
+    <column>BL GSUAS FNAS</column>
+    <column>1897X</column>
+    <column>184578</column>
+    <column>R$ 695721.06 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Bloco da Gestão do SUAS</column>
+	<column>R$ 695721.06</column>
+  </row>  
+	  <row>
+    <column>Bloco da Proteção Social Básica</column>
+    <column>BL PSB FNAS</column>
+    <column>1897X</column>
+    <column>184632</column>
+    <column>R$ 3557392.08 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Bloco da Proteção Social Básica</column>
+	<column>R$ 3557392.08</column>
+  </row>  
+	  <row>
+    <column>Bloco da Proteção Social Especial de Alta Complexidade</column>
+    <column>BL PSEAC FNAS</column>
+    <column>1897X</column>
+    <column>184594</column>
+    <column>R$ 6075043.44 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Bloco da Proteção Social Especial de Alta Complexidade</column>
+	<column>R$ 6075043.44</column>
+  </row>  
+	  <row>
+    <column>Bloco da Proteção Social Especial de Média Complexidade</column>
+    <column>BL PSEMC FNAS</column>
+    <column>1897X</column>
+    <column>184616</column>
+    <column>R$ 3240172.12 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Bloco da Proteção Social Especial de Média Complexidade</column>
+	<column>R$ 3240172.12</column>
+  </row>  
+	  <row>
+    <column>Gestão</column>
+    <column>IGDBF</column>
+    <column>1897X</column>
+    <column>88587</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Gestão</column>
+    <column>IGD-SUAS</column>
+    <column>1897X</column>
+    <column>88951</column>
+    <column>R$ 0 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Gestão</column>
+	<column>R$ 0</column>
+  </row>  
+	  <row>
+    <column>Grupo de Programas</column>
+    <column>ACESUASTRAB</column>
+    <column>1897X</column>
+    <column>184497</column>
+    <column>R$ 217756.02 </column>
+  </row>
+     <row>
+    <column>Grupo de Programas</column>
+    <column>AEPETI</column>
+    <column>1897X</column>
+    <column>184535</column>
+    <column>R$ 411006.02 </column>
+  </row>
+     <row>
+    <column>Grupo de Programas</column>
+    <column>APREDECNEAS</column>
+    <column>1897X</column>
+    <column>184500</column>
+    <column>R$ 26574.98 </column>
+  </row>
+     <row>
+    <column>Grupo de Programas</column>
+    <column>BPC ESCOLA</column>
+    <column>1897X</column>
+    <column>184519</column>
+    <column>R$ 357389.57 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Grupo de Programas</column>
+	<column>R$ 1012726.59</column>
+  </row>  
+	  <row>
+    <column>Programas</column>
+    <column>ACEPETI</column>
+    <column>1897X</column>
+    <column>98469</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Programas</column>
+    <column>AP REDE</column>
+    <column>1897X</column>
+    <column>181080</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Programas</column>
+    <column>BPC</column>
+    <column>1897X</column>
+    <column>98787</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Programas</column>
+    <column>ACESSUAS</column>
+    <column>1897X</column>
+    <column>91073</column>
+    <column>R$ 0 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Programas</column>
+	<column>R$ 0</column>
+  </row>  
+	  <row>
+    <column>Proteção Social Básica</column>
+    <column>PBFI</column>
+    <column>1897X</column>
+    <column>88021</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Proteção Social Básica</column>
+    <column>PBVII</column>
+    <column>1897X</column>
+    <column>8803X</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Proteção Social Básica</column>
+    <column>PVMC</column>
+    <column>1897X</column>
+    <column>88099</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Proteção Social Básica</column>
+    <column>PJOV</column>
+    <column>1897X</column>
+    <column>88080</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Proteção Social Básica</column>
+    <column>SCFV</column>
+    <column>1897X</column>
+    <column>94498</column>
+    <column>R$ 0 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Proteção Social Básica</column>
+	<column>R$ 0</column>
+  </row>  
+	  <row>
+    <column>Proteção Social Especial</column>
+    <column>PACI</column>
+    <column>1897X</column>
+    <column>88005</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Proteção Social Especial</column>
+    <column>PACII</column>
+    <column>1897X</column>
+    <column>88013</column>
+    <column>R$ 0 </column>
+  </row>
+     <row>
+    <column>Proteção Social Especial</column>
+    <column>PFMC</column>
+    <column>1897X</column>
+    <column>88048</column>
+    <column>R$ 0 </column>
+  </row>
+     <row> 
+    <column>TOTAL DA Proteção Social Especial</column>
+	<column>R$ 0</column>
+  </row>  
+  <row>
+    <column>TOTAL DE RECURSOS NAS CONTAS DO FUNDO</column>
+	<column>R$ 21225057.24</column>
+  </row>  
+  <row>
+    <column>Contas Antigas Vinculadas à</column>    
+  </row>
+  <row>
+    <column>PREFEITURA MUNICIPAL DE SAO PAULO</column>    
+  </row>
+  <row>
+    <column>Saldo das Contas em</column>    
+  </row>
+  <row>
+    <column>Janeiro</column>    
+  </row>
+  <row>
+    <column>CNPJ</column>    
+  </row>
+  <row>
+    <column>46.392.130/0007-03</column>    
+  </row>  
+  <row>
+    <column>NOME PERSONALIZADO NO BB</column>
+    <column>TIPO DE CONTA</column>
+    <column>AGÊNCIA</column>
+    <column>CONTA</column>
+    <column>SALDO</column>
+  </row>
+  <row>
+    <column>PM SAO PAULO-EMPJ</column>
+    <column>EMPJ</column>
+    <column>1897X</column>
+    <column>65013</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PMSP FMAS SP FUNDO MUNICI</column>
+    <column>API</column>
+    <column>1897X</column>
+    <column>50245</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PMSP PETI SP PROGRAMA DE</column>
+    <column>JPETI</column>
+    <column>1897X</column>
+    <column>580678</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PMSP SAS FMAS PAIF</column>
+    <column>PAIF</column>
+    <column>1897X</column>
+    <column>6288X</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PMSP SAS FMAS SENTINELA</column>
+    <column>SENTINELA</column>
+    <column>1897X</column>
+    <column>62243</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PMSP SAS PROJETO AGENTE J</column>
+    <column>BAJ</column>
+    <column>1897X</column>
+    <column>57673</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PSAO PAULOFMASBPC</column>
+    <column>BPC</column>
+    <column>1897X</column>
+    <column>77798</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PSAOPAULOFMASACPETI</column>
+    <column>JPETI</column>
+    <column>1897X</column>
+    <column>66826</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PSAOPAULOFMASBAJ</column>
+    <column>BAJ</column>
+    <column>1897X</column>
+    <column>66834</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PSAOPAULOFMASBPETI</column>
+    <column>BPETI</column>
+    <column>1897X</column>
+    <column>66842</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>PSAOPAULOFMASPBT</column>
+    <column>PBTR</column>
+    <column>1897X</column>
+    <column>66869</column>
+    <column>R$ 0 </column>
+  </row>
+  <row>
+    <column>TOTAL DE RECURSOS NAS CONTAS DA PREFEITURA</column>
+	<column>R$ 0</column>
+  </row>
+  <row>
+    <column>TOTAL DE RECURSOS DO MUNICÍPIO DE SAO PAULO - SP</column>
+	<column>R$ 21225057.24</column>
+  </row>
+</table>
+ 
+                 
+                 
+                 
+                 
+                 
+                
